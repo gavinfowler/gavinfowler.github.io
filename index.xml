@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gavin Fowler</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Gavin Fowler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Schooling I am currently a senior studying computer science at Utah State University.
+[projects]
+I have played many instruments but I most enjoyed playing saxophone and Euphonium.
+I played in a jazz band all through middle school and high school. I am a fan of jaz music with some of my favorite artists being: the Brecker Brothers, Tower of Power, and Charlie Parker.
+I participated in marching band for 3 years in highschool and this led to a year in the Battalion Drum and Bugle Corps (pronounced `core` ;) ).</description>
+    </item>
+    
+  </channel>
+</rss>
