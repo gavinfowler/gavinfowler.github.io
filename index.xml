@@ -6,10 +6,28 @@
     <description>Recent content on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 18:02:19 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>new Title</title>
+      <link>http://example.org/projects/newproject/</link>
+      <pubDate>Sat, 11 May 2019 18:02:19 +0000</pubDate>
+      
+      <guid>http://example.org/projects/newproject/</guid>
+      <description>new stuff</description>
+    </item>
+    
+    <item>
+      <title>LaTeX to HTML</title>
+      <link>http://example.org/projects/latextohtml/</link>
+      <pubDate>Sat, 11 May 2019 18:02:18 +0000</pubDate>
+      
+      <guid>http://example.org/projects/latextohtml/</guid>
+      <description>A chrome extension that will take latex as input and output html that will render like LaTeX.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -18,7 +36,7 @@
       
       <guid>http://example.org/about/</guid>
       <description>Schooling I am currently a senior studying computer science at Utah State University.
-[projects]
+Projects
 I have played many instruments but I most enjoyed playing saxophone and Euphonium.
 I played in a jazz band all through middle school and high school. I am a fan of jaz music with some of my favorite artists being: the Brecker Brothers, Tower of Power, and Charlie Parker.
 I participated in marching band for 3 years in highschool and this led to a year in the Battalion Drum and Bugle Corps (pronounced `core` ;) ).</description>

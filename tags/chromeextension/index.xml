@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chromeExtension on Gavin Fowler</title>
+    <link>http://example.org/tags/chromeextension/</link>
+    <description>Recent content in chromeExtension on Gavin Fowler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2019 18:02:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/chromeextension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>new Title</title>
+      <link>http://example.org/projects/newproject/</link>
+      <pubDate>Sat, 11 May 2019 18:02:19 +0000</pubDate>
+      
+      <guid>http://example.org/projects/newproject/</guid>
+      <description>new stuff</description>
+    </item>
+    
+    <item>
+      <title>LaTeX to HTML</title>
+      <link>http://example.org/projects/latextohtml/</link>
+      <pubDate>Sat, 11 May 2019 18:02:18 +0000</pubDate>
+      
+      <guid>http://example.org/projects/latextohtml/</guid>
+      <description>A chrome extension that will take latex as input and output html that will render like LaTeX.</description>
+    </item>
+    
+  </channel>
+</rss>
