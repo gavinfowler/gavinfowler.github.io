@@ -22,18 +22,6 @@ This app was developed for MIS 5700 at USU. The project was to create any sort o
     </item>
     
     <item>
-      <title>Running App</title>
-      <link>http://example.org/projects/workoutapp/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/projects/workoutapp/</guid>
-      <description>Link to my GitHub
-For the final project in my Mobile Development class, we were asked to create an app that would be able to track your exercise, specifically your runs.
-While coding this app I learned about many different packages and android APIs. Some of the packages I used were
- NativeBase React-Native Camera React-Native Maps React Navigation  Through this was one of the hardest assignments in that class, I learned quite a bit.</description>
-    </item>
-    
-    <item>
       <title>LaTeX to HTML</title>
       <link>http://example.org/projects/latextohtml/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>

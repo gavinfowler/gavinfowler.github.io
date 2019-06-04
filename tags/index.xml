@@ -39,33 +39,6 @@
     </item>
     
     <item>
-      <title>GPS</title>
-      <link>http://example.org/tags/gps/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/gps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>googleservices</title>
-      <link>http://example.org/tags/googleservices/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/googleservices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>running</title>
-      <link>http://example.org/tags/running/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/tags/running/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>LaTeX</title>
       <link>http://example.org/tags/latex/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
