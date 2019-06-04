@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>running on Gavin Fowler</title>
+    <link>http://example.org/tags/running/</link>
+    <description>Recent content in running on Gavin Fowler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running App</title>
+      <link>http://example.org/projects/workoutapp/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/workoutapp/</guid>
+      <description>Link to my GitHub
+For the final project in my Mobile Development class, we were asked to create an app that would be able to track your exercise, specifically your runs.
+While coding this app I learned about many different packages and android APIs. Some of the packages I used were
+ NativeBase React-Native Camera React-Native Maps React Navigation  Through this was one of the hardest assignments in that class, I learned quite a bit.</description>
+    </item>
+    
+  </channel>
+</rss>
