@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yelp on Gavin Fowler</title>
-    <link>http://example.org/tags/yelp/</link>
+    <link>https://gavinfowler.github.io/tags/yelp/</link>
     <description>Recent content in yelp on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/yelp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gavinfowler.github.io/tags/yelp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Restaurant Picker</title>
-      <link>http://example.org/projects/restaurantpicker/</link>
+      <link>https://gavinfowler.github.io/projects/restaurantpicker/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/restaurantpicker/</guid>
+      <guid>https://gavinfowler.github.io/projects/restaurantpicker/</guid>
       <description>RestaurantPicker is an app to help people in groups decide where to eat.
 This app was developed for MIS 5700 at USU. The project was to create any sort of web-based service that could grow into a business. Most groups chose an Amazon-style website where things could be sold from either their company, who would make the products or the community, in a kind of Uber-style application. My team decided to do something different, create an application that would help groups of friends decide where to eat.</description>
     </item>

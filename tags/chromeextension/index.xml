@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chromeExtension on Gavin Fowler</title>
-    <link>http://example.org/tags/chromeextension/</link>
+    <link>https://gavinfowler.github.io/tags/chromeextension/</link>
     <description>Recent content in chromeExtension on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/chromeextension/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gavinfowler.github.io/tags/chromeextension/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LaTeX to HTML</title>
-      <link>http://example.org/projects/latextohtml/</link>
+      <link>https://gavinfowler.github.io/projects/latextohtml/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/latextohtml/</guid>
+      <guid>https://gavinfowler.github.io/projects/latextohtml/</guid>
       <description>Link to LaTeX to HTML
 One of the projects I recently undertook was a chrome extension that would accept LaTeX as input and output HTML code that would render the LaTeX in a nice format.
 At my job at the Space Dynamics Lab, I was able to do something similar. We had some units that we wanted to render in a pretty format, for example, if we had &amp;lsquo;sec/m^2&amp;rsquo; we could render it as:</description>

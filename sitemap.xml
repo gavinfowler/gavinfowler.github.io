@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://gavinfowler.github.io/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://gavinfowler.github.io/projects/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/restaurantpicker/</loc>
+    <loc>https://gavinfowler.github.io/projects/restaurantpicker/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/reactnative/</loc>
+    <loc>https://gavinfowler.github.io/tags/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/restaurant/</loc>
+    <loc>https://gavinfowler.github.io/tags/reactnative/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/yelp/</loc>
+    <loc>https://gavinfowler.github.io/tags/restaurant/</loc>
     <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/latex/</loc>
+    <loc>https://gavinfowler.github.io/tags/yelp/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gavinfowler.github.io/tags/latex/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/latextohtml/</loc>
+    <loc>https://gavinfowler.github.io/projects/latextohtml/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/chromeextension/</loc>
+    <loc>https://gavinfowler.github.io/tags/chromeextension/</loc>
     <lastmod>2019-05-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://gavinfowler.github.io/about/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url>
   
